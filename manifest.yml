@@ -17,8 +17,6 @@ modules:
         - key: tasksJson
           type: string
           defaultValue: "[]"
-      config:
-        resource: main
 
   function:
     - key: resolver

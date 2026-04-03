@@ -144,7 +144,7 @@ function App() {
     <div className="app-main" style={{ padding: '32px', backgroundColor: '#FAFBFC', minHeight: '100vh', fontFamily: 'Inter, sans-serif' }}>
       <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: '16px', flexWrap: 'wrap', gap: '20px' }}>
         <div style={{ flexGrow: 1, minWidth: '300px' }}>
-          <h1 style={{ margin: 0, fontSize: '32px', fontWeight: '900', color: '#172B4D', letterSpacing: '-1.2px' }}>Gantt Intelligence <span style={{ color: '#0052CC' }}>Elite</span></h1>
+          <h1 style={{ margin: 0, fontSize: '32px', fontWeight: '900', color: '#172B4D', letterSpacing: '-1.2px' }}>Syngenta <span style={{ color: '#0052CC' }}>Gantt</span></h1>
           
           <div style={{ display: 'flex', gap: '2px', backgroundColor: '#EBECF0', padding: '3px', borderRadius: '10px', marginTop: '16px', width: 'fit-content', border: '1px solid #DFE1E6' }}>
             <button 
