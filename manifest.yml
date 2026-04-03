@@ -11,7 +11,8 @@ modules:
       resolver:
         function: resolver
       title: Responsive Gantt Chart
-      description: Interactive Gantt chart with progress tracking and responsive timeline scaling.
+      description: Interactive Gantt chart with progress tracking and responsive
+        timeline scaling.
       config:
         function: config-resolver
 
@@ -26,6 +27,6 @@ resources:
     path: static/gantt-app/dist
 
 app:
-  id: ari:cloud:ecosystem::app/confluence-responsive-gantt
+  id: ari:cloud:ecosystem::app/0b1010f4-429b-4110-8d4d-cb3c93135f9e
   runtime:
-    name: nodejs18.x
+    name: nodejs20.x
